@@ -1,0 +1,45 @@
+.font-1 {
+  font: 0.8rem 'Roboto', cursive;
+ 
+}
+.font-1-p {
+   font:0.8rem 'Halant', cursive;
+  
+}
+.font-1-m {
+   font:1em "Quicksand", sans-serif;
+   letter-spacing: 5px;
+ 
+}
+
+
+.font-1-g {
+  font:1.6em "Quicksand", sans-serif;
+  letter-spacing: 5px;
+
+}
+
+.font-2 {
+   font: 2.1em "Allura", serif !important;
+  line-height: 1 !important;
+
+}
+
+.nomes2{
+
+  font: 0.8rem 'Roboto Serif', cursive;
+
+}
+
+.font-2-m {
+  font: 2em "Allura", serif !important;
+ line-height: 1 !important;
+
+}
+
+
+
+@font-face {
+  font-family: HighSpirited;
+  src: url("HighSpirited.ttf");
+}
